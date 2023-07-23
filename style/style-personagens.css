@@ -65,7 +65,7 @@ a{
 }
 .cartao .imgBx{
     position: relative;
-    min-width: 480px;
+    min-width: 390px;
     height: 100%;
     background: #fff;
     display: flex;
@@ -73,7 +73,7 @@ a{
     align-items: center;    
 }
 .cartao .imgBx img{
-    max-width: 280px;
+    max-width: 380px;
 }
 .cartao .detalhes{
     position: relative;
